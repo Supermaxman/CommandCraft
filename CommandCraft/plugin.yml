@@ -1,0 +1,22 @@
+name: CommandCraft
+
+main: me.supermaxman.commandcraft.CommandCraft
+
+version: 1.0
+
+description: Open Crafting with a Command
+
+commands:
+  craft:
+    description:
+    usage: craft
+  ench:
+    description:
+    usage: ench
+  chest:
+    description:
+    usage: chest
+  setchest:
+    description:
+    usage: setchest
+

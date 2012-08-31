@@ -1,22 +1,20 @@
 name: CommandCraft
-
 main: me.supermaxman.commandcraft.CommandCraft
-
 version: 1.0
-
-description: Open Crafting with a Command
-
+description: Opens all kinds of awesome
 commands:
   craft:
-    description:
+    description: Opens Crafting Table
     usage: craft
   ench:
-    description:
+    description: Opens Enchantment Table
     usage: ench
-  chest:
-    description:
-    usage: chest
-  setchest:
-    description:
-    usage: setchest
-
+  end:
+    description: Opens your enderchest
+    usage: end
+  enderchest:
+    description: Opens your enderchest
+    usage: enderchest
+  endchest:
+    description: Opens your enderchest
+    usage: enderchest
